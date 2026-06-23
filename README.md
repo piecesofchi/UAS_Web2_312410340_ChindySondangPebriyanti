@@ -5,7 +5,7 @@ Chibrary v2.0 adalah aplikasi Single Page Application (SPA) berbasis web untuk m
 
 ---
 
-## 🛠️ Petunjuk Instalasi Lokal
+## Petunjuk Instalasi Lokal
 
 ### 1. Backend (CodeIgniter 4)
 1. Pindahkan folder `backend-api` ke direktori server lokal Anda (misal: `htdocs` atau sejenisnya).
@@ -24,7 +24,7 @@ Chibrary v2.0 adalah aplikasi Single Page Application (SPA) berbasis web untuk m
    
    `index.html` di browser Anda.
 
-## 📸 Dokumentasi & Screenshot Aplikasi
+## Dokumentasi & Screenshot Aplikasi
 
 ### A. Skema Relasi Database
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/63c37c6e-7c87-4800-a119-fa6e7ac0b5f8" />
@@ -48,7 +48,7 @@ Chibrary v2.0 adalah aplikasi Single Page Application (SPA) berbasis web untuk m
   <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/472fa164-2341-45f8-9cfc-c531e54d1f52" />
 
 
-##🔗 Link Tautan Penting
-###Link Demo Aplikasi: (https://uas-web2-312410340-chindy-sondang-p.vercel.app/)
+## Link Tautan Penting
+### Link Demo Aplikasi: (https://uas-web2-312410340-chindy-sondang-p.vercel.app/)
 
-###Link Video Presentasi YouTube: Tonton di Sini
+### Link Video Presentasi YouTube: Tonton di Sini
