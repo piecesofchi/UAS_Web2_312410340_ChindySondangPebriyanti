@@ -49,6 +49,6 @@ Chibrary v2.0 adalah aplikasi Single Page Application (SPA) berbasis web untuk m
 
 
 ##🔗 Link Tautan Penting
-###Link Demo Aplikasi: Klik di Sini
+###Link Demo Aplikasi: (https://uas-web2-312410340-chindy-sondang-p.vercel.app/)
 
 ###Link Video Presentasi YouTube: Tonton di Sini
