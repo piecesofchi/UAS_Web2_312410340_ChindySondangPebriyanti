@@ -1,6 +1,8 @@
 import Login from './komponen/Login.js';
 import Dashboard from './komponen/Dashboard.js';
 
+axios.defaults.baseURL = 'http://localhost:8080/api/';
+
 const Home = {
     template: `
         <div class="min-h-screen bg-[#fcf8f2] bg-[radial-gradient(#f87171_1px,transparent_1px)] [background-size:24px_24px] px-4 md:px-8 pb-16 pt-6">
