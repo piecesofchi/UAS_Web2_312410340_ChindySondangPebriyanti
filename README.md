@@ -52,6 +52,15 @@ Aplikasi **Chibrary Komik Digital** dirancang sebagai platform perpustakaan digi
 
 ---
 
+## Teknologi yang Digunakan
+
+* **Frontend:** Vue.js 3 (CDN), Vue Router 4, Axios, Tailwind CSS
+* **Backend:** CodeIgniter 4 (RESTful API)
+* **Database:** MySQL / MariaDB
+* **Deployment:** GitHub Pages / Vercel
+
+---
+
 ## Dokumentasi & Screenshot Aplikasi
 
 ### A. Skema Relasi Database
