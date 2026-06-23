@@ -88,4 +88,4 @@ Aplikasi **Chibrary Komik Digital** dirancang sebagai platform perpustakaan digi
 ## Link Tautan Penting
 ### Link Demo Aplikasi: (https://uas-web2-312410340-chindy-sondang-p.vercel.app/)
 
-### Link Video Presentasi YouTube: Tonton di Sini
+### Link Video Presentasi YouTube: (https://youtu.be/FZn9EfahZZA?si=qu7G7Gy_OBKudz6h)
